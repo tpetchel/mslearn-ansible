@@ -5,5 +5,5 @@ pool:
   name: 'MyAgentPool'
 
 steps:
-- task: script | 
+- script: | 
     echo 'Hello from MyAgentPool!'
