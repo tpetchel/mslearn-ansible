@@ -1,9 +1,0 @@
-trigger:
-- master
-
-pool:
-  name: 'MyAgentPool'
-
-steps:
-- script: | 
-    echo 'Hello from MyAgentPool!'
